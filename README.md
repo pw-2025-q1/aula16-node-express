@@ -1,7 +1,6 @@
-# Template para projetos de PW no GitHub Codespaces
+# Aula 16 - Servidores com Node.js e Express
 
-Esse template está configurado para criar um ambiente com as principais dependências que precisamos na aula. Para criar um novo projeto no ambiente:
-
-* Crie um novo repositório usando o template;
-* Inicie um codespace a partir do novo repositório;
-* Para criar um novo projeto NPM, digite `npm init` e siga o wizard
+* `server-http.ts`: Cria um servidor HTTP básico utilizando o módulo `http` do Node.js.
+* `express-server.ts`: Cria um servidor básico utilizando o framework Express.
+* `express-demo.ts`: Tutorial dos principais recursos do Express
+* `api-client.ts`: Demonstração de um cliente API utilizando o módulo `fetch`. Testa a API desenvolvida em `express-demo.ts`.
